@@ -9,7 +9,7 @@ click on area and make a markers and lines. When contour is closed, you can expo
 cutted image to a specific path with save file dialog, or programmatically with method ExportWithoutDialog();
   In Right side of control (or left side if ModeLeftSideTools == true) located vertical tools bar with two buttons.
 First button - for delete last user step. Second button for clear all markers and lines.
-Cut contol supported Drag & Drop images, for this you must set ModeDragAndDrop = true;
+Cut contol supported Drag & Drop images, for this you must to set ModeDragAndDrop = true;
 And some additions: if PathToImg has been changed, picture load automatical...
 
 
